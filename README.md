@@ -2,6 +2,6 @@
 An LSP server that provides documentation parsed from doxygen documentation
 
 
-## References
+## Research
 * https://github.com/doxygen/doxygen/blob/master/src/sqlite3gen.cpp
 * https://github.com/doxygen/doxygen/blob/master/addon/doxypysql/search.py
